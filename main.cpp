@@ -1,4 +1,8 @@
+#include <iostream>
 
-/*
-hello world
-*/ 
+int main()
+{
+    using namespace std;
+    cout << "hello world";
+    return 0;
+}
